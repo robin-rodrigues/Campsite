@@ -10,7 +10,7 @@ var express         = require('express'),
     Comment         = require('./models/comment'),
     User            = require('./models/user');
  //   seedDB          = require('./seeds');
-
+//checking...
 var CampgroundsRoutes = require("./routes/campgrounds"),
     CommentsRoutes    = require("./routes/comments"),
      IndexRoutes      = require("./routes/index");    
